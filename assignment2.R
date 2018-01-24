@@ -1,4 +1,6 @@
 #assignment 2
+
+#plot pdf on GitHub: https://github.com/liuming314/2018_15.S41 under "plots_all.pdf" because Stellar only lets you put one file at once
 library(dplyr)
 library(ggplot2)
 library(tidyr)
